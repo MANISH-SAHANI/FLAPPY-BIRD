@@ -1,0 +1,197 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void ManagerGame::Play()
+extern void ManagerGame_Play_mE9DF4B599DABA1C38EF26EAEC1115837588AA194 (void);
+// 0x00000002 System.Void ManagerGame::Quit()
+extern void ManagerGame_Quit_mE14B92D10015AC1477FA5645A2DE6B3B16373C1D (void);
+// 0x00000003 System.Void ManagerGame::Restart()
+extern void ManagerGame_Restart_m05193B3D1E1CF01219C999150EE46CD84127CB35 (void);
+// 0x00000004 System.Void ManagerGame::.ctor()
+extern void ManagerGame__ctor_mE89879155DEB91510D5B812EEB44399CC2E6387D (void);
+// 0x00000005 System.Void temp::VisibilityToggle()
+extern void temp_VisibilityToggle_m6A6BD82FB36AD15E5249E49D1C1CBE206D570C8E (void);
+// 0x00000006 System.Void temp::Re()
+extern void temp_Re_mB4F05A46072D9B6648ECC0C022FAC3FB227454CC (void);
+// 0x00000007 System.Void temp::.ctor()
+extern void temp__ctor_m0D766D62D6362543B4C67F41A1C586BCEB397F0D (void);
+// 0x00000008 System.Void BirdControl::Start()
+extern void BirdControl_Start_mAA68D886786B01AE3A144D7F0A127851CAEB637A (void);
+// 0x00000009 System.Void BirdControl::Update()
+extern void BirdControl_Update_m09E2752EC9AB24A92ACE7908181383FDC29D7765 (void);
+// 0x0000000A System.Void BirdControl::OnTriggerEnter2D(UnityEngine.Collider2D)
+extern void BirdControl_OnTriggerEnter2D_mF7E40C140A65B6A74EDD43812AE0F8D75342CDB5 (void);
+// 0x0000000B System.Void BirdControl::JumpUp()
+extern void BirdControl_JumpUp_m6966A8A521FF78A626FF133E6748A19F0FBAE943 (void);
+// 0x0000000C System.Void BirdControl::GameOver()
+extern void BirdControl_GameOver_mE2797DE0B40A1B6FD9F45C078B7F2672395EFCCC (void);
+// 0x0000000D System.Void BirdControl::.ctor()
+extern void BirdControl__ctor_mEA34427A2118C1DD025CBDE83703280EB1351118 (void);
+// 0x0000000E System.Void GameMain::Start()
+extern void GameMain_Start_m128EADA89BF74187CCBEC757AEC0B6AC29B7C197 (void);
+// 0x0000000F System.Void GameMain::Update()
+extern void GameMain_Update_m7ED81796ECF2C8909D38F1800CD6AFCD391C737A (void);
+// 0x00000010 System.Void GameMain::StartGame()
+extern void GameMain_StartGame_m452EFE1E3710A8A2727ACB9D04E6E61C0B4DA268 (void);
+// 0x00000011 System.Void GameMain::.ctor()
+extern void GameMain__ctor_mE0880533CA5CFBF10929FEB37D0BDEBD9AFB8416 (void);
+// 0x00000012 System.Void LandControl::Start()
+extern void LandControl_Start_mC58A200EF27C6BB67B926B4151CEC733C10F877C (void);
+// 0x00000013 System.Void LandControl::Update()
+extern void LandControl_Update_m997FECDC1D9A3A5226DC14AE5C26AC446A67AA1F (void);
+// 0x00000014 System.Void LandControl::GameOver()
+extern void LandControl_GameOver_mC64D6951586B9B7889BD8B35170BC12792AA8737 (void);
+// 0x00000015 System.Void LandControl::.ctor()
+extern void LandControl__ctor_m29FA58775107C6152DE42A33A031182E5702B40A (void);
+// 0x00000016 System.Void PipeMove::Start()
+extern void PipeMove_Start_mC3056E8222123455F013C7EB147143C9C886362B (void);
+// 0x00000017 System.Void PipeMove::Update()
+extern void PipeMove_Update_m9AC14C2B503C5D36220A5DAAC633670DB4A0E71E (void);
+// 0x00000018 System.Void PipeMove::GameOver()
+extern void PipeMove_GameOver_m525726CC3C92D1FB6737CC6AB0689D8454848A8B (void);
+// 0x00000019 System.Void PipeMove::.ctor()
+extern void PipeMove__ctor_m8F37F2DF70F96DA3758E9F6D120E72C7AF3A309A (void);
+// 0x0000001A System.Void PipeSpawner::Start()
+extern void PipeSpawner_Start_m9F6ED44EB7D89C1CA2D049EC58307A2EDCF5A4F7 (void);
+// 0x0000001B System.Void PipeSpawner::StartSpawning()
+extern void PipeSpawner_StartSpawning_m65609E12849B5A299CA2BCBE7914969B3DD53BAA (void);
+// 0x0000001C System.Void PipeSpawner::Spawn()
+extern void PipeSpawner_Spawn_mC4C9C5EF6D83B2A152CE36D04946DF029CD168F8 (void);
+// 0x0000001D System.Void PipeSpawner::GameOver()
+extern void PipeSpawner_GameOver_m1B59A56495D1F842CB8D72150BCE2EF70283968B (void);
+// 0x0000001E System.Void PipeSpawner::.ctor()
+extern void PipeSpawner__ctor_m40436CAE22058599D2A1EC8B56D8E8EE7979DE0A (void);
+// 0x0000001F System.Void ScoreMgr::Start()
+extern void ScoreMgr_Start_mA109AF7BA7E8116E81970851995FD14F6DE42678 (void);
+// 0x00000020 System.Void ScoreMgr::AddScore()
+extern void ScoreMgr_AddScore_mD75C9315A30ABDCDE26E71F8BBBF8112AF91A86C (void);
+// 0x00000021 System.Void ScoreMgr::SetScore(System.Int32)
+extern void ScoreMgr_SetScore_m96C9E032A8D4AA3E981FD1AE9BAEEB4BC06353EF (void);
+// 0x00000022 System.Void ScoreMgr::.ctor()
+extern void ScoreMgr__ctor_m05747CC92175FFA377CACF7703143408DFB5339B (void);
+// 0x00000023 System.Void StartMain::Start()
+extern void StartMain_Start_mECBBAE23DF00E174F8DB38372178660566CAD42F (void);
+// 0x00000024 System.Void StartMain::Update()
+extern void StartMain_Update_mF5DD15D9562EDD5241782CAF1C256480C388644B (void);
+// 0x00000025 System.Void StartMain::HandleTouch(System.Int32,UnityEngine.Vector2,UnityEngine.TouchPhase)
+extern void StartMain_HandleTouch_m39735002156CA0FEA1CA34D6F3C8B306C1346E82 (void);
+// 0x00000026 System.Void StartMain::OnPressStart()
+extern void StartMain_OnPressStart_m35947A8A76F6856474C3DB69D0A2255FFDCF8EC1 (void);
+// 0x00000027 System.Void StartMain::.ctor()
+extern void StartMain__ctor_m0FBF4B6496D2C9CA84D7E69152B887382203C2B5 (void);
+static Il2CppMethodPointer s_methodPointers[39] = 
+{
+	ManagerGame_Play_mE9DF4B599DABA1C38EF26EAEC1115837588AA194,
+	ManagerGame_Quit_mE14B92D10015AC1477FA5645A2DE6B3B16373C1D,
+	ManagerGame_Restart_m05193B3D1E1CF01219C999150EE46CD84127CB35,
+	ManagerGame__ctor_mE89879155DEB91510D5B812EEB44399CC2E6387D,
+	temp_VisibilityToggle_m6A6BD82FB36AD15E5249E49D1C1CBE206D570C8E,
+	temp_Re_mB4F05A46072D9B6648ECC0C022FAC3FB227454CC,
+	temp__ctor_m0D766D62D6362543B4C67F41A1C586BCEB397F0D,
+	BirdControl_Start_mAA68D886786B01AE3A144D7F0A127851CAEB637A,
+	BirdControl_Update_m09E2752EC9AB24A92ACE7908181383FDC29D7765,
+	BirdControl_OnTriggerEnter2D_mF7E40C140A65B6A74EDD43812AE0F8D75342CDB5,
+	BirdControl_JumpUp_m6966A8A521FF78A626FF133E6748A19F0FBAE943,
+	BirdControl_GameOver_mE2797DE0B40A1B6FD9F45C078B7F2672395EFCCC,
+	BirdControl__ctor_mEA34427A2118C1DD025CBDE83703280EB1351118,
+	GameMain_Start_m128EADA89BF74187CCBEC757AEC0B6AC29B7C197,
+	GameMain_Update_m7ED81796ECF2C8909D38F1800CD6AFCD391C737A,
+	GameMain_StartGame_m452EFE1E3710A8A2727ACB9D04E6E61C0B4DA268,
+	GameMain__ctor_mE0880533CA5CFBF10929FEB37D0BDEBD9AFB8416,
+	LandControl_Start_mC58A200EF27C6BB67B926B4151CEC733C10F877C,
+	LandControl_Update_m997FECDC1D9A3A5226DC14AE5C26AC446A67AA1F,
+	LandControl_GameOver_mC64D6951586B9B7889BD8B35170BC12792AA8737,
+	LandControl__ctor_m29FA58775107C6152DE42A33A031182E5702B40A,
+	PipeMove_Start_mC3056E8222123455F013C7EB147143C9C886362B,
+	PipeMove_Update_m9AC14C2B503C5D36220A5DAAC633670DB4A0E71E,
+	PipeMove_GameOver_m525726CC3C92D1FB6737CC6AB0689D8454848A8B,
+	PipeMove__ctor_m8F37F2DF70F96DA3758E9F6D120E72C7AF3A309A,
+	PipeSpawner_Start_m9F6ED44EB7D89C1CA2D049EC58307A2EDCF5A4F7,
+	PipeSpawner_StartSpawning_m65609E12849B5A299CA2BCBE7914969B3DD53BAA,
+	PipeSpawner_Spawn_mC4C9C5EF6D83B2A152CE36D04946DF029CD168F8,
+	PipeSpawner_GameOver_m1B59A56495D1F842CB8D72150BCE2EF70283968B,
+	PipeSpawner__ctor_m40436CAE22058599D2A1EC8B56D8E8EE7979DE0A,
+	ScoreMgr_Start_mA109AF7BA7E8116E81970851995FD14F6DE42678,
+	ScoreMgr_AddScore_mD75C9315A30ABDCDE26E71F8BBBF8112AF91A86C,
+	ScoreMgr_SetScore_m96C9E032A8D4AA3E981FD1AE9BAEEB4BC06353EF,
+	ScoreMgr__ctor_m05747CC92175FFA377CACF7703143408DFB5339B,
+	StartMain_Start_mECBBAE23DF00E174F8DB38372178660566CAD42F,
+	StartMain_Update_mF5DD15D9562EDD5241782CAF1C256480C388644B,
+	StartMain_HandleTouch_m39735002156CA0FEA1CA34D6F3C8B306C1346E82,
+	StartMain_OnPressStart_m35947A8A76F6856474C3DB69D0A2255FFDCF8EC1,
+	StartMain__ctor_m0FBF4B6496D2C9CA84D7E69152B887382203C2B5,
+};
+static const int32_t s_InvokerIndices[39] = 
+{
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	2917,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	3562,
+	2899,
+	3562,
+	3562,
+	3562,
+	873,
+	3562,
+	3562,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	39,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
